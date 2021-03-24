@@ -56,13 +56,3 @@ def Square_Bar(statu):
         Bar += '!!!'
     return Bar
 
-#game loop
-'''name = input('輸入雞的名字：')
-gg = Chicke(name)
-while True:
-    ObjStatus(gg)
-    gg.over_one_day()
-    time.sleep(0.1)
-    gg.dead()
-    print('\n\n\n\n\n\n\n\n\n\n\n\n\n\n')
-'''
